@@ -8,6 +8,7 @@
 ## How to Deploy:
 
 > npm install
+
 > npm run dev
 
 ## Takeaways:
